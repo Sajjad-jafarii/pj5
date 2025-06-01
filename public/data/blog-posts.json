@@ -1,0 +1,25 @@
+[
+    {
+      "date": "01",
+      "month": "Jun",
+      "image": "blog1.jpg",
+      "title": "Test Blog Post",
+      "summary": "This is a summary of the blog post.",
+      "link": "#",
+      "category": "Tech",
+      "readTime": 3,
+      "comments": 5
+    },
+    {
+      "date": "05",
+      "month": "Jun",
+      "image": "blog2.jpg",
+      "title": "Second Blog Post",
+      "summary": "Another interesting post.",
+      "link": "#",
+      "category": "News",
+      "readTime": 2,
+      "comments": 2
+    }
+  ]
+  
